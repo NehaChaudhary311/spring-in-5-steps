@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 28 17:25:53 IST 2022
+https\://paypalcentral.es.paypalcorp.com/nexus/content/groups/public/.lastUpdated=1648468553330
+https\://paypalcentral.es.paypalcorp.com/nexus/content/repositories/central/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:2.6.5 from/to central (https\://paypalcentral.es.paypalcorp.com/nexus/content/repositories/central)\: Transfer failed for https\://paypalcentral.es.paypalcorp.com/nexus/content/repositories/central/org/springframework/boot/spring-boot-starter-parent/2.6.5/spring-boot-starter-parent-2.6.5.pom
+@default-central-https\://paypalcentral.es.paypalcorp.com/nexus/content/repositories/central/.lastUpdated=1648468470623
